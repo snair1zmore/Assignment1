@@ -1,5 +1,21 @@
 # Assignment1
-Task 1 and Task 2 both in the same repository
+Task1:
+#Perform Basic Mathematical Operations
+first_number = float(input("Enter the first number: "))
+second_number = float(input("Enter the second_number: "))
+
+addition = first_number + second_number
+subtraction = first_number - second_number
+multiplication = first_number*second_number
+division = first_number/second_number
+
+print("\n")
+print(f"Addition = {addition}")
+print(f"Subtraction = {subtraction}")
+print(f"Multiplication = {multiplication}")
+print(f"Division = {division}")
+
+
 
 
 Task2:
